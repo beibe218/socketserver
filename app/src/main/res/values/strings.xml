@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">socketserver</string>
+    <string name="start_server">start server</string>
+    <string name="client">client</string>
+</resources>
